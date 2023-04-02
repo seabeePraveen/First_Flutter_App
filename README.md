@@ -1,6 +1,6 @@
-# flutter_firstapp
+# First_Flutter_Ap
 
-A new Flutter project.
+My first flutter app written using dart 
 
 ## Getting Started
 
